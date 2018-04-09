@@ -1,5 +1,7 @@
 # Change is coming....
--<a href="https://discord.gg/ckdaNHE" title="Chat on Discord"><img alt="Discord Status" src="https://discordapp.com/api/guilds/428346203835596800/widget.png"></a>
+
+
+
 
 # fs_freemode
 
